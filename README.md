@@ -268,3 +268,9 @@ MIT License. See [LICENSE](LICENSE).
 - [Contributing](CONTRIBUTING.md)
 - [Security](SECURITY.md)
 - [Issues](https://github.com/zakirkun/deep-eye/issues)
+
+
+## 🪟 Windows Note
+Anti-virus software may false-positive. Source code is open for audit.
+## 📄 License
+MIT
